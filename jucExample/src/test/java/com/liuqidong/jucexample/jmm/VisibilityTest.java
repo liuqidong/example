@@ -21,6 +21,7 @@ public class VisibilityTest {
             i++;
             //TODO  业务逻辑
 
+
         }
         System.out.println(Thread.currentThread().getName() + "跳出循环: i=" + i);
     }
